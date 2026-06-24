@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+
+# Never publish microdata
+data/
+respondent_data.json
+
+# Environment
+.env
+.env.local
